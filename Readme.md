@@ -1,7 +1,7 @@
 
 # blocked
 
-  Check if a node event loop is blocked.
+  Check if a node event loop is blocked. 
 
 ## Installation
 
